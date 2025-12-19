@@ -37,3 +37,7 @@ Thumbs.db
 # Remove incorrect .gitignore file
 imageDataset/OIDv4_ToolKit/.gitignore
 
+OID/csv_folder/
+main.py
+modules/
+classes.txt
