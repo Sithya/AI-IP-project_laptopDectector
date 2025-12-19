@@ -1,0 +1,13 @@
+================================================================================
+MODEL PERFORMANCE COMPARISON
+================================================================================
+
+TEST SET METRICS
+--------------------------------------------------------------------------------
+Precision: Original=0.911, Cleaned=0.885, Diff=-0.026
+Recall: Original=0.783, Cleaned=0.745, Diff=-0.038
+mAP@0.5: Original=0.871, Cleaned=0.835, Diff=-0.036
+mAP@0.5:0.95: Original=0.594, Cleaned=0.535, Diff=-0.059
+
+Dataset sizes: Original=1500, Cleaned=1351
+Removed: 149 images (136 invalid bboxes, 8 dark, 5 bright)
